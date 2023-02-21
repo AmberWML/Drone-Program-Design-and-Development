@@ -1,0 +1,5 @@
+.DS_Store
+# Extensions to not include in repo
+*.o
+*.out
+*.pvt
